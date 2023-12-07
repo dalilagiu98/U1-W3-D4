@@ -1,0 +1,12 @@
+.number {
+    display: inline-block;
+    width: 14%;
+    height: 106px;
+    border-radius: 8px;
+    cursor: pointer;
+    border: 1px solid red;
+}
+
+.number-extracted {
+    background-color: aquamarine;
+}
